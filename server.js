@@ -5,7 +5,7 @@ import cors from "cors";
 import multer from "multer";
 import path from "path";
 import { fileURLToPath } from "url";
-import Resume from "./models/Resume.js";
+import Resume from "./models/resume.js";
 import fs from "fs";
 
 dotenv.config();
